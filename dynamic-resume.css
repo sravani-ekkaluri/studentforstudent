@@ -1,0 +1,28 @@
+body{
+  background: green;
+}
+.main{
+  display: flex;
+}
+.sub1{
+  width:25%;
+  border-radius: 5%;
+  margin: 4%;
+  padding: 2%;
+  background: pink;
+
+}
+.sub2{
+  width: 75%;
+  border-radius: 5%;
+  margin: 5%;
+  padding: 2%;
+  background: white;
+}
+img{
+  width:50%;
+  height: 50%;
+}
+table{
+  border :1px solid black;
+}
